@@ -1,0 +1,11 @@
+name = "rolldoradoapp-com-de"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=rolldoradoapp.com.de"
+HMAC_KEY = "911fda5aa1ed091a6e7ecd54d94486078a20b1f1619757bff2fd4a47de48600c"
+COOKIE_NAME = "7e3"
+PLAY_PATH = "explore"
+BUTTON_ID = "p25e8a6f8f2144fe26f84eaaf12f28c76"
+GATE_SALT = "a4c1972143a92dbc"
